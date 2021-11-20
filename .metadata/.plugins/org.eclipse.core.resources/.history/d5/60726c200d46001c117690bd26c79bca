@@ -1,0 +1,22 @@
+package java2021SoruHavuzu;
+
+import java.util.Scanner;
+
+public class C02_NestedForLoop {
+
+	public static void main(String[] args) {
+//Kullanicicdan 10dan kucuk bir tam sayi girmsini isteyin grilen sayiya gore asagidaki sekli yazdirin
+//3 girerse
+//1
+//1 2
+//1 2 3 
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Lutfen 10dan kucuk pozitif tamsayi girniz");
+		int sayi= scan.nextInt();
+		
+		for(int i=1; i<=sayi ; i++)
+		{System.out.println(i+" ");}
+				
+	}
+
+}

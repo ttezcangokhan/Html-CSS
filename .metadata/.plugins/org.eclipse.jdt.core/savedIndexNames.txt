@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\41763\Desktop\TechproNotlar\.metadata\.plugins\org.eclipse.jdt.core
+1594347030.index
+1865797976.index
+121391078.index
