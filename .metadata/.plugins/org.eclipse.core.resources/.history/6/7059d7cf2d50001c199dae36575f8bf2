@@ -1,0 +1,16 @@
+package AcalismaALani;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ConstructorSulogil {
+
+	public static void main(String[] args) {
+		List<Integer> list = new ArrayList<>();
+		list.addAll("ali");
+		list.addAll("veli");
+		list.addAll("gokhan");
+		list.set(1,"Havva");
+		System.out.println(list);
+}
+}

@@ -1,9 +1,0 @@
-package java2021Selber;
-
-public class aliveli {
-
-	public static void main(String[] args) {
-System.out.println("Helloworld");
-	}
-
-}

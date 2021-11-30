@@ -1,0 +1,19 @@
+package AcalismaALani;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ConstructorSulogil {
+
+	public static void main(String[] args) {
+		List<Integer> list = new ArrayList<>();
+		list.add(123);
+		list.add(1);
+		list.add(9);
+		list.remove(9);
+		System.out.println(list.contains(123));
+		
+		
+	}
+
+}

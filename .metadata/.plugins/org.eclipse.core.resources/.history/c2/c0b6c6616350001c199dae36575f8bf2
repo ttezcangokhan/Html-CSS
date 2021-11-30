@@ -1,0 +1,28 @@
+package Batch30Calisma.day25_constructor;
+
+public class C02_CarRunner {
+	public static void main(String[] args) {
+		C01 car1=new C01(); 
+		//bir esitligin sol trafi declerationdu
+		//declerationda data duru ve variable ismini soylemem gerekiyordu
+		// Strig str= "Mehmet";
+		//Data turu class ismi olabilir
+		//primitive ve non primitive farklari
+		//primitive data turlerini java olsuturmustur int data turunde bir variable olusturuyoruz
+		//non primitive data turlerini javada bizde olusturabiliriz
+		//C01 car 1 yazdigimizda C01 hem classtir hemde non-primitive data turudur.Strindeded oyledir
+		//new C01(); esitligin sagi degr olusturma
+		//new keyworddur ve yeni bir obje olusturacagimizi beyan eder
+		//C01 ise constructordur.
+		
+	car1.fiyat=1000;
+	car1.ilanNo=1001;
+	car1.marka="Toyota";
+	car1.model="corolla";
+	car1.yil=2020;
+	System.out.println(car1.fiyat+"," +car1.ilanNo + "," + car1.marka+ ", " + car1.model+", " +car1.yil);
+		car1.maxHiz(200);
+		car1.yakit("dizel"); 
+	}
+
+}

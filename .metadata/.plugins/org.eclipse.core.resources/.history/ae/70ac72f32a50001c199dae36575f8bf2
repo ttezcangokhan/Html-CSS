@@ -1,0 +1,22 @@
+package AcalismaALani;
+ class insan{
+	 int boy;
+	 int kilo;
+	 int yas;
+	 public insan() {
+		 System.out.println("bir isnan objesi olusturuldiu");
+	 }
+ }
+
+public class ConstructorYazilimBilimi {
+
+	public static void main(String[] args) {
+		insan veli=new insan();
+		insan ali=new insan();
+		ali.boy=180;
+		ali.kilo=80;
+		
+
+	}
+
+}

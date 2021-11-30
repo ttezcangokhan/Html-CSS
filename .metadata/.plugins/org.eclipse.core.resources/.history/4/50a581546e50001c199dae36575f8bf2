@@ -1,0 +1,18 @@
+package C03;
+
+public class C03_Constructor {
+        int sayi=10;
+        String isim="Mehmet";
+	public static void main(String[] args) {
+		//sayi=20;sayi degiskeni static olmadigi icin main methodan kullanamam
+		//deneme(); denem methoudu staticolmadigi icin main methoddan cagirmam
+		C03 obj1=new C03;
+		obj1.deneme();
+		
+
+	}
+	public void deneme() {
+		System.out.println("deneme metodu calsiti");
+	}
+
+}
