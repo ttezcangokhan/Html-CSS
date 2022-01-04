@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="Batch30Calisma.day25_constructor.C01"/>
     <fullyQualifiedTypeName name="day37_inheritance.Corolla"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
@@ -17,7 +16,10 @@
     <fullyQualifiedTypeName name="java.util.Deque"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="day48_maps_TheEND.MapOlustur"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="Lambda.Lambda01"/>
 </qualifiedTypeNameHistroy>
