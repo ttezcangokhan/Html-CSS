@@ -548,3 +548,11 @@
 2022-01-10 22:43:30,199 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
 2022-01-10 22:43:30,202 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-10 22:43:30,202 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-10 22:51:16,177 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 22:51:16,183 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
+2022-01-10 22:51:16,187 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 22:51:16,187 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-10 22:52:05,628 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 22:52:05,628 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
+2022-01-10 22:52:05,630 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 22:52:05,631 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
