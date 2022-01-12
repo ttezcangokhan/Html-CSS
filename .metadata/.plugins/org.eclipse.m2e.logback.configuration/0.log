@@ -556,3 +556,16 @@
 2022-01-10 22:52:05,628 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
 2022-01-10 22:52:05,630 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-10 22:52:05,631 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-11 23:14:08,996 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-01-11 23:14:10,428 [Worker-9: Launching Jdbc1Query01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-11 23:14:10,428 [Worker-9: Launching Jdbc1Query01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
+2022-01-11 23:14:10,430 [Worker-9: Launching Jdbc1Query01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-11 23:14:10,430 [Worker-9: Launching Jdbc1Query01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-11 23:15:22,453 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-11 23:15:22,453 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
+2022-01-11 23:15:22,455 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-11 23:15:22,455 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-12 00:21:10,925 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-12 00:21:10,928 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
+2022-01-12 00:21:10,932 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-12 00:21:10,932 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
