@@ -569,3 +569,8 @@
 2022-01-12 00:21:10,928 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
 2022-01-12 00:21:10,932 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-12 00:21:10,932 [Worker-31: Launching Jdbc1Query02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-15 23:25:41,054 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-15 23:25:41,066 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\main\resources
+2022-01-15 23:25:41,070 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-15 23:25:41,071 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\41763\Desktop\TechproNotlar\jdbcOrnekler\src\test\resources
+2022-01-15 23:28:01,849 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
