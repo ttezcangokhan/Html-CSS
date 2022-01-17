@@ -4,9 +4,9 @@ INDEX VERSION 1.131+C:\Users\41763\Desktop\TechproNotlar\.metadata\.plugins\org.
 3819472574.index
 1141154014.index
 3838717785.index
-1837047057.index
-601348331.index
 2683928438.index
+601348331.index
+1837047057.index
 1086364752.index
 2783524558.index
 1594347030.index
